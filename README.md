@@ -74,7 +74,7 @@ python main.py
 ### Contoh Alur Operasi Aritmatika:
 
 1. Jalankan program, ketik `operasi aritmatika`.
-2. Pilih operator, misalnya ** (pangkat).
+2. Pilih operator, misalnya `** (pangkat)`.
 3. Masukkan angka pertama: `2`.
 4. Masukkan angka kedua: `3`.
 5. Program akan mengeluarkan hasil: `hasil dari 2 ** 3 = 8`.
@@ -104,7 +104,7 @@ Kontribusi selalu terbuka untuk siapa saja! Jika kamu menemukan bug, memiliki id
 
 Project ini dilisensikan di bawah **Lisensi MIT**. Anda bebas untuk menggunakan, mengubah, dan mendistribusikan kode ini untuk keperluan pribadi maupun komersial.
 
-~~~text
+```text
 MIT License
 
 Copyright (c) 2026
@@ -126,4 +126,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-~~~
+```
