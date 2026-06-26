@@ -34,7 +34,7 @@ Sebelum menjalankan project ini, pastikan kamu sudah menginstal Python di perang
 1. Buka terminal atau Command Prompt (CMD).
 2. Clone repository ini ke komputer lokalmu:
    ```bash
-   git clone [https://github.com/username-kamu/Kalkulator-Modifikasi-Aritmatika-Logika-Boolean-Python.git](https://github.com/username-kamu/Kalkulator-Modifikasi-Aritmatika-Logika-Boolean-Python.git)
+   git clone https://github.com/noelsimanjuntak26/Kalkulator-Modifikasi-Aritmatika-Logika-Boolean-Python.git
 
 ```
 
