@@ -1,4 +1,3 @@
-
 # 🧮 LogiCalc: CLI Arithmetic & Boolean Calculator
 
 Kalkulator berbasis Command-Line Interface (CLI) yang dibangun menggunakan Python. Project ini memodifikasi fungsi kalkulator standar dengan menggabungkan operasi matematika dasar (aritmatika) dan operasi logika boolean dalam satu program yang interaktif, cerdas, dan tangguh.
